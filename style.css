@@ -1,0 +1,40 @@
+*{
+    padding: 0%;
+    margin: 0;
+}
+body{
+    background-image: url(1.jpg);
+    background-repeat: no-repeat;}
+    nav{
+        width: 100%;
+        height: 50px;
+        background-color: rgb(118, 119, 109);
+ 
+    }
+    .textdiv{
+        
+        width: 500px;
+        height: 100px;
+        margin-left: 90px;
+        margin-top: 300px;
+    }
+    span{
+    color:white;    
+    font-size: 50px;
+    font-family: inherit;
+    }
+    ul{
+        display: inline-block;
+        margin-top: 9px;
+        margin-left: 100px;
+    }
+    ul li{
+        list-style: none;
+        font-size: 25px;
+    }
+li:hover{
+    color: white;
+    font-weight: 20px;
+    background-color:none;
+    border-radius: 12px;
+}
